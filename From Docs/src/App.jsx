@@ -11,7 +11,7 @@ import MainDivider from "./Components/Divider/MainDivider";
 import MainPaper from "./Components/Divider/MainPaper";
 import MainChip from "./Components/Chip/MainChip";
 import MainAvatar from "./MainAvatar";
-import MainSlider from "./Components/MainSlider";
+import MainSlider from "./Components/Slider/MainSlider";
 
 const App = () => {
   return (
