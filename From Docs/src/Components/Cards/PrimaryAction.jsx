@@ -12,7 +12,7 @@ import React from "react";
 
 const PrimaryAction = () => {
   return (
-    <Stack direction={"row"} flexWrap={"wrap"} gap={2}>
+    <Stack direction={"row"} flexWrap={"wrap"} gap={2} justifyContent={"center"} alignItems={"center"}>
       <Card sx={{ width: "100%", maxWidth: 350 }}>
         <CardActionArea>
           <CardMedia
