@@ -14,6 +14,7 @@ import MainAvatar from "./MainAvatar";
 import MainSlider from "./Components/Slider/MainSlider";
 import MainCards from "./Components/Cards/MainCards";
 import MainTabs from "./Components/Tabs/MainTabs";
+import MainRating from "./Components/Rating/MainRating";
 
 const App = () => {
   return (
@@ -32,6 +33,7 @@ const App = () => {
       {/* <MainSlider /> */}
       {/* <MainCards /> */}
       {/* <MainTabs /> */}
+      {/* <MainRating /> */}
     </Stack>
   );
 };
