@@ -13,6 +13,7 @@ import MainChip from "./Components/Chip/MainChip";
 import MainAvatar from "./MainAvatar";
 import MainSlider from "./Components/Slider/MainSlider";
 import MainCards from "./Components/Cards/MainCards";
+import MainTabs from "./Components/Tabs/MainTabs";
 
 const App = () => {
   return (
@@ -29,7 +30,8 @@ const App = () => {
       {/* <MainDivider /> */}
       {/* <MainAvatar /> */}
       {/* <MainSlider /> */}
-      <MainCards />
+      {/* <MainCards /> */}
+      {/* <MainTabs /> */}
     </Stack>
   );
 };
