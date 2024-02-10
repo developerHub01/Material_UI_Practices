@@ -15,6 +15,7 @@ import MainSlider from "./Components/Slider/MainSlider";
 import MainCards from "./Components/Cards/MainCards";
 import MainTabs from "./Components/Tabs/MainTabs";
 import MainRating from "./Components/Rating/MainRating";
+import MainToggleButton from "./Components/Toggle Button/MainToggleButton";
 
 const App = () => {
   return (
@@ -34,6 +35,7 @@ const App = () => {
       {/* <MainCards /> */}
       {/* <MainTabs /> */}
       {/* <MainRating /> */}
+      <MainToggleButton />
     </Stack>
   );
 };
