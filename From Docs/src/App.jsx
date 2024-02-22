@@ -16,6 +16,9 @@ import MainCards from "./Components/Cards/MainCards";
 import MainTabs from "./Components/Tabs/MainTabs";
 import MainRating from "./Components/Rating/MainRating";
 import MainToggleButton from "./Components/Toggle Button/MainToggleButton";
+import MainTable from "./Components/Table/MainTable";
+import MainLayout from "./Components/Layout/MainLayout";
+import MainAccordion from "./Components/Accordion/MainAccordion";
 
 const App = () => {
   return (
@@ -35,7 +38,10 @@ const App = () => {
       {/* <MainCards /> */}
       {/* <MainTabs /> */}
       {/* <MainRating /> */}
-      <MainToggleButton />
+      {/* <MainToggleButton /> */}
+      {/* <MainTable /> */}
+      {/* <MainLayout /> */}
+      <MainAccordion />
     </Stack>
   );
 };
