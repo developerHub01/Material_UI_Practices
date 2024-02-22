@@ -19,6 +19,9 @@ import MainToggleButton from "./Components/Toggle Button/MainToggleButton";
 import MainTable from "./Components/Table/MainTable";
 import MainLayout from "./Components/Layout/MainLayout";
 import MainAccordion from "./Components/Accordion/MainAccordion";
+import MainFAB from "./Components/FloatingActionButton/MainFAB";
+import MainCheckbox from "./Components/Checkbox/MainCheckbox";
+import MainSelect from "./Components/Selects/MainSelect";
 
 const App = () => {
   return (
@@ -41,7 +44,10 @@ const App = () => {
       {/* <MainToggleButton /> */}
       {/* <MainTable /> */}
       {/* <MainLayout /> */}
-      <MainAccordion />
+      {/* <MainAccordion /> */}
+      {/* <MainFAB /> */}
+      {/* <MainCheckbox /> */}
+      {/* <MainSelect /> */}
     </Stack>
   );
 };
