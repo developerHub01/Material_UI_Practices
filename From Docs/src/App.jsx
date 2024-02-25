@@ -24,6 +24,8 @@ import MainCheckbox from "./Components/Checkbox/MainCheckbox";
 import MainSelect from "./Components/Selects/MainSelect";
 import MainTransferList from "./Components/TransferList/MainTransferList";
 import MainBadge from "./Components/Badge/MainBadge";
+import MainTooltip from "./Components/Tooltip/MainTooltip";
+import MainAlert from "./Components/Alerts/MainAlert";
 
 const App = () => {
   return (
@@ -52,6 +54,11 @@ const App = () => {
       {/* <MainSelect /> */}
       {/* <MainTransferList /> */}
       {/* <MainBadge /> */}
+      {/* <MainAlert /> */}
+      {/* 
+        Not Completed
+      */}
+      {/* <MainTooltip /> */}
     </Stack>
   );
 };
