@@ -22,6 +22,8 @@ import MainAccordion from "./Components/Accordion/MainAccordion";
 import MainFAB from "./Components/FloatingActionButton/MainFAB";
 import MainCheckbox from "./Components/Checkbox/MainCheckbox";
 import MainSelect from "./Components/Selects/MainSelect";
+import MainTransferList from "./Components/TransferList/MainTransferList";
+import MainBadge from "./Components/Badge/MainBadge";
 
 const App = () => {
   return (
@@ -48,6 +50,8 @@ const App = () => {
       {/* <MainFAB /> */}
       {/* <MainCheckbox /> */}
       {/* <MainSelect /> */}
+      {/* <MainTransferList /> */}
+      {/* <MainBadge /> */}
     </Stack>
   );
 };
