@@ -55,10 +55,10 @@ const App = () => {
       {/* <MainTransferList /> */}
       {/* <MainBadge /> */}
       {/* <MainAlert /> */}
+      {/* <MainTooltip /> */}
       {/* 
         Not Completed
       */}
-      {/* <MainTooltip /> */}
     </Stack>
   );
 };
