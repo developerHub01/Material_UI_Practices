@@ -26,6 +26,11 @@ import MainTransferList from "./Components/TransferList/MainTransferList";
 import MainBadge from "./Components/Badge/MainBadge";
 import MainTooltip from "./Components/Tooltip/MainTooltip";
 import MainAlert from "./Components/Alerts/MainAlert";
+import MainTextField from "./Components/Text Field/MainTextField";
+import MainIcons from "./Components/Icons/MainIcons";
+import MainBackdrop from "./Components/Backdrop/MainBackdrop";
+import MainDialog from "./Components/Dialog/MainDialog";
+import MainModal from "./Components/Modal/MainModal";
 
 const App = () => {
   return (
@@ -56,6 +61,10 @@ const App = () => {
       {/* <MainBadge /> */}
       {/* <MainAlert /> */}
       {/* <MainTooltip /> */}
+      {/* <MainTextField /> */}
+      {/* <MainBackdrop /> */}
+      {/* <MainModal /> */}
+      {/* <MainDialog /> */}
       {/* 
         Not Completed
       */}
