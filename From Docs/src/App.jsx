@@ -31,6 +31,7 @@ import MainIcons from "./Components/Icons/MainIcons";
 import MainBackdrop from "./Components/Backdrop/MainBackdrop";
 import MainDialog from "./Components/Dialog/MainDialog";
 import MainModal from "./Components/Modal/MainModal";
+import MainSkeleton from "./Components/Skeleton/MainSkeleton";
 
 const App = () => {
   return (
@@ -65,6 +66,7 @@ const App = () => {
       {/* <MainBackdrop /> */}
       {/* <MainModal /> */}
       {/* <MainDialog /> */}
+      {/* <MainSkeleton /> */}
       {/* 
         Not Completed
       */}
