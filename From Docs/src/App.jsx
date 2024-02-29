@@ -36,6 +36,7 @@ import MainBreadcrumbs from "./Components/Breadcrumbs/MainBreadcrumbs";
 import MainProgress from "./Components/Progress/MainProgress";
 import MainSnackbar from "./Components/Snackbar/MainSnackbar";
 import MainAppBar from "./Components/AppBar/MainAppBar";
+import MainBottomNavigation from "./Components/BottomNavigation/MainBottomNavigation";
 
 const App = () => {
   return (
@@ -74,7 +75,8 @@ const App = () => {
       {/* <MainBreadcrumbs /> */}
       {/* <MainSnackbar /> */}
       {/* <MainProgress /> */}
-      <MainAppBar />
+      {/* <MainAppBar /> */}
+      <MainBottomNavigation />
       {/* 
         Not Completed
       */}
