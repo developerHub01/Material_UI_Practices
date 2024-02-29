@@ -33,6 +33,9 @@ import MainDialog from "./Components/Dialog/MainDialog";
 import MainModal from "./Components/Modal/MainModal";
 import MainSkeleton from "./Components/Skeleton/MainSkeleton";
 import MainBreadcrumbs from "./Components/Breadcrumbs/MainBreadcrumbs";
+import MainProgress from "./Components/Progress/MainProgress";
+import MainSnackbar from "./Components/Snackbar/MainSnackbar";
+import MainAppBar from "./Components/AppBar/MainAppBar";
 
 const App = () => {
   return (
@@ -69,6 +72,9 @@ const App = () => {
       {/* <MainDialog /> */}
       {/* <MainSkeleton /> */}
       {/* <MainBreadcrumbs /> */}
+      {/* <MainSnackbar /> */}
+      {/* <MainProgress /> */}
+      <MainAppBar />
       {/* 
         Not Completed
       */}

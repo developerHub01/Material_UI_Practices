@@ -14,7 +14,6 @@ const KeyboardNavigation = () => {
         sx={{
           width: "100%",
           bgcolor: "#212121",
-          width: "100%",
           maxWidth: 800,
           borderRadius: 1.5,
           overflow: "hidden",
