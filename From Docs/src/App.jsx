@@ -39,6 +39,7 @@ import MainAppBar from "./Components/AppBar/MainAppBar";
 import MainBottomNavigation from "./Components/BottomNavigation/MainBottomNavigation";
 import MainDrawer from "./Components/Drawer/MainDrawer";
 import MainPagination from "./Components/Pagination/MainPagination";
+import MainSpeedDial from "./Components/SpeedDial/MainSpeedDial";
 
 const App = () => {
   return (
@@ -81,6 +82,7 @@ const App = () => {
       {/* <MainBottomNavigation /> */}
       {/* <MainDrawer /> */}
       {/* <MainPagination /> */}
+      <MainSpeedDial />
       {/* 
         Not Completed
       */}
