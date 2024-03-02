@@ -38,6 +38,7 @@ import MainSnackbar from "./Components/Snackbar/MainSnackbar";
 import MainAppBar from "./Components/AppBar/MainAppBar";
 import MainBottomNavigation from "./Components/BottomNavigation/MainBottomNavigation";
 import MainDrawer from "./Components/Drawer/MainDrawer";
+import MainPagination from "./Components/Pagination/MainPagination";
 
 const App = () => {
   return (
@@ -78,7 +79,8 @@ const App = () => {
       {/* <MainProgress /> */}
       {/* <MainAppBar /> */}
       {/* <MainBottomNavigation /> */}
-      <MainDrawer />
+      {/* <MainDrawer /> */}
+      {/* <MainPagination /> */}
       {/* 
         Not Completed
       */}

@@ -16,7 +16,7 @@ const MainDrawer = () => {
       {/* <SwipeableDrawerComp /> */}
       {/* <ResponsiveDrawer /> */}
       {/* <PersistentDrawerLeft /> */}
-      <MiniVariantDrawer />
+      {/* <MiniVariantDrawer /> */}
       {/* <PermanentDrawer /> */}
       {/* <ClippedUnderTheAppBar /> */}
     </>
