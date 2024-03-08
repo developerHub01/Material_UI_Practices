@@ -12,7 +12,7 @@ const MainSpeedDial = () => {
       {/* <Playground /> */}
       {/* <ControlledSpeedDial /> */}
       {/* <CustomCloseIcon /> */}
-      <PersistentActionTooltips />
+      {/* <PersistentActionTooltips /> */}
     </>
   );
 };

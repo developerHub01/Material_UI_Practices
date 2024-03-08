@@ -40,6 +40,8 @@ import MainBottomNavigation from "./Components/BottomNavigation/MainBottomNaviga
 import MainDrawer from "./Components/Drawer/MainDrawer";
 import MainPagination from "./Components/Pagination/MainPagination";
 import MainSpeedDial from "./Components/SpeedDial/MainSpeedDial";
+import MainMenu from "./Components/Menu/MainMenu";
+import MainStepper from "./Components/Stepper/MainStepper";
 
 const App = () => {
   return (
@@ -82,7 +84,9 @@ const App = () => {
       {/* <MainBottomNavigation /> */}
       {/* <MainDrawer /> */}
       {/* <MainPagination /> */}
-      <MainSpeedDial />
+      {/* <MainSpeedDial /> */}
+      {/* <MainMenu /> */}
+      <MainStepper />
       {/* 
         Not Completed
       */}
